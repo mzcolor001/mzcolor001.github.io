@@ -23,7 +23,8 @@ Data Engineering Fellow
 * Used Amazon S3 as a staging area and Redshift as a data warehouse to implement an ETL pipeline.
 
 Ricoh USA, Boulder, CO
-R&D Team Leader | Machine Learning Engineer 
+
+Machine Learning Engineer 
 * Led a mixed group of five mechanical engineers and four software engineers, generated business roadmap,
 coached and mentored junior software engineers and coordinated product delivery.
 * Developed and led a system automation project using an inline spectrophotometer and camera sensors to
@@ -33,6 +34,7 @@ dataset. The L1 regularization is applied to prevent overfitting and the accurac
 K-fold cross-validation.
 * Utilized deep learning algorithm, VGG16 to automatically select the ROI (Region of Interest) in real time
 image to detect image defects.
+
 Staff Software Engineer
 * Worked on developing the architecture and workflow for color and imaging quality for large-format printer servers which were based on Linux.
 * Developed color and imaging functions for printers and monitors to reproduce images with high fidelity.
