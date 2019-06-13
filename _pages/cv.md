@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -53,8 +52,7 @@ Patents
 * Medium Type Categorization Using K Nearest Neighbor Method 2018 
 * Dryer Temperature automation Using Random-Forest Regressor 2018
   
-Conferences
-======
+
   
   
 
