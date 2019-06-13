@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Juan Lin"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "Machine Learning Engineer in Colorado U.S., expert in ML, DL and NLP, build data pipelines in AWS."
   location         : "Denver"
   employer         :
