@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Imaging Science, North Carolina State University
+* Ph.D in Imaging and Color Science, North Carolina State University
 
 Work experience
 ======
@@ -20,7 +20,7 @@ Data Engineering Fellow
 * Consulted with a biotech company to build a scalable pipeline for DNA sequence data.
 * Collected data from Google Cloud, cleaned and extracted sample and experiment metadata.
 * Utilized MongoDB to store, aggregate and query patient information and visualized the data with Dash. § Used Airflow to monitor and automate the whole pipeline, and sent monitoring information to users.
-* Used Amazon S3 as a staging area and Redshift as a data warehouse to implement an ETL pipeline.
+* Used AWS S3 as a staging area and Redshift as a data warehouse to implement an ETL pipeline.
 
 Ricoh USA, Boulder, CO
 
